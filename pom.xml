@@ -63,6 +63,9 @@
       <properties>
         <username>${user.name}</username>
       </properties>
+      <properties>
+  <sonar.organization>vikrant1717</sonar.organization>
+</properties>
       <build>
         <plugins>
           <plugin>
